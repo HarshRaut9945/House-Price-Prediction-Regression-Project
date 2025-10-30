@@ -1,4 +1,4 @@
-MSSubClass: Identifies the type of dwelling involved in the sale.	
+ MSSubClass: Identifies the type of dwelling involved in the sale.	
 
         20	1-STORY 1946 & NEWER ALL STYLES
         30	1-STORY 1945 & OLDER
@@ -281,7 +281,7 @@ BsmtQual: Evaluates the height of the basement
        TA	Typical (80-89 inches)
        Fa	Fair (70-79 inches)
        Po	Poor (<70 inches
-       NA	No Basement
+       NA	No Basement     
 		
 BsmtCond: Evaluates the general condition of the basement
 
